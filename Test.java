@@ -4,6 +4,7 @@ public class test1 {
 		System.out.println("20104");
 		System.out.println("smc");
 		System.out.println("sub file");
+		System.out.println("master file");
 	}
 
 }
